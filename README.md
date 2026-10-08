@@ -1,4 +1,5 @@
-<img width="1916" height="821" alt="Banner Futurista AG LABS em Azul" src="https://github.com/user-attachments/assets/93ed3d72-c74d-43b6-90c0-2f6347e50222" />
+<img width="1916" height="587" alt="Banner Futurista AG LABS em Azul" src="https://github.com/user-attachments/assets/0117c26d-a4f7-484d-8bc9-55e63daf6417" />
+
 <div align="center">
 
 # AG LABS
